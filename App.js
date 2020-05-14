@@ -9,6 +9,8 @@ export default function App() {
   );
 }
 
+//HELP
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
